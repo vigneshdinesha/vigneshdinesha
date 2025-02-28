@@ -27,7 +27,7 @@
 🔹 Contribute to **open-source projects** and collaborate with developers worldwide.  
 
 ### **📬 Connect With Me**  
-📧 Email: **yvigneshdinesha@gmail.com**  
+📧 Email: **vigneshdinesha@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/vignesh-dinesha/)  
 
 
