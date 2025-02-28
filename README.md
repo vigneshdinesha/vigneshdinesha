@@ -1,7 +1,7 @@
 # Hi, I'm Vignesh Dinesha! 👋  
 ###  Computer Science & Data Science Student | Passionate about AI, Frontend & Full-Stack Development  
 
-![Banner](https://your-banner-image-url.com)  
+![Banner](https://raw.githubusercontent.com/vigneshdinesha/vigneshdinesha/main/banner-image.png)  
 
 ### **About Me**  
 🔹 **Sophomore at Rutgers University**, majoring in **Computer Science & Data Science**.  
