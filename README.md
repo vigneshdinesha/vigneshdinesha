@@ -1,7 +1,6 @@
 # Hi, I'm Vignesh
 ###  Computer Science & Data Science Student | Passionate about AI, Full-Stack Development, & Analytics
 
-![Banner](https://raw.githubusercontent.com/vigneshdinesha/vigneshdinesha/main/banner-image.png)  
 
 ### **About Me**  
  **Student at Rutgers University**, majoring in **Computer Science & Data Science**.  
