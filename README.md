@@ -1,44 +1,23 @@
-# Hi, I'm Vignesh 👋
+# Vignesh Dinesha
 
-**Computer Science & Data Science** at **Rutgers University**. I build software that turns messy public data into things non-technical people can actually use.
+Software engineer in NJ. Just finished a B.S. in Computer Science + Data Science at Rutgers (Magna Cum Laude, May 2026). Starting at NYS as an Application Developer once their budget cycle clears in a couple months. Until then I'm building.
 
-Currently looking for **Software Engineer** roles — especially in **civic tech, the public sector, and applied data products**.
+The two repos pinned at the top are the work I'd point someone at first.
 
----
+### What I'm doing right now
 
-### 🚀 Featured Project
+**Nexus** — multi-vertical AI voice agent SaaS (pizzeria, truck parts, real estate, doctor's office). One engine, four verticals, configurable per inbound number. .NET 10 + Azure Communication Services + AI Foundry Voice Live + Postgres/pgvector. First prospect in active conversation, NJ pizzeria. Repo is private while I'm pre-launch.
 
-#### [NYS Public Demand & Policy Impact Simulator](https://github.com/vigneshdinesha/nys-public-demand-simulator)
+**NYS Public Demand Simulator** — live tool that joins six fragmented New York State open datasets and lets a county planner estimate Medicaid/SNAP impact from an unemployment shock in 30 seconds. The interesting part is the PDF extraction pipeline for monthly Medicaid reports — the state doesn't publish that one as structured data anywhere.
 
-A self-service civic-tech tool that estimates how an unemployment shock would ripple into Medicaid and SNAP enrollment across all 62 New York State counties — in 30 seconds, without pulling six datasets by hand.
+**Manas Wellness** — donation site for a youth mental-health nonprofit. Live at [manaswellness.com](https://manaswellness.com). Stripe, signed-cookie admin auth, single redaction boundary so admin-only fields can't accidentally leak through the public API.
 
-The headline isn't the regression. The headline is **getting the data into one place**: six fragmented NYS public datasets joined into a single queryable panel of ~67,000 county-month observations (2018–2025), including a **custom PDF-extraction pipeline** for county-level Medicaid enrollment — which doesn't exist in structured form anywhere.
+I also have a satellite-imagery × NJ parcel value difference-in-differences study scoped but on pause.
 
-🔗 **Live demo →** [nys-public-demand-simulator.vercel.app](https://nys-public-demand-simulator.vercel.app)
-📂 **Source →** [github.com/vigneshdinesha/nys-public-demand-simulator](https://github.com/vigneshdinesha/nys-public-demand-simulator)
+### Stack I'm comfortable in
 
-`Python` · `FastAPI` · `PostgreSQL` (Neon) · `Next.js` · `TypeScript` · `Tailwind` · `statsmodels` · `Recharts`
+Python · TypeScript · C# / .NET · SQL  ·  FastAPI · ASP.NET Core · Next.js · React  ·  PostgreSQL · pgvector · SQL Server  ·  Azure · Docker · GitHub Actions · Bicep
 
----
+### Reach me
 
-### 🧪 Also building
-
-- **Generative-AI application frameworks** for end-to-end app development
-- A **biohacking toolkit** — data-driven methods to optimize human performance and well-being
-
----
-
-### 🛠️ I work in
-
-**Languages:** Python · TypeScript · JavaScript · SQL
-**Backend:** FastAPI · PostgreSQL · SQLAlchemy · pandas · NumPy · statsmodels
-**Frontend:** Next.js · React · Tailwind · Recharts
-**Infra:** Vercel · Render · Neon · GitHub Actions
-
----
-
-### 📫 Let's talk
-
-- 📧 [vigneshdinesha@gmail.com](mailto:vigneshdinesha@gmail.com)
-- 💼 [LinkedIn — in/vignesh-dinesha](https://www.linkedin.com/in/vignesh-dinesha)
-- 📍 Monroe Township, NJ · he/him
+vigneshdinesha@gmail.com  ·  [LinkedIn](https://linkedin.com/in/vignesh-dinesha)
