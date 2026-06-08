@@ -6,7 +6,7 @@ The two repos pinned at the top are the work I'd point someone at first.
 
 ### What I'm doing right now
 
-**Nexus** — multi-vertical AI voice agent SaaS (pizzeria, truck parts, real estate, doctor's office). One engine, four verticals, configurable per inbound number. .NET 10 + Azure Communication Services + AI Foundry Voice Live + Postgres/pgvector. First prospect in active conversation, NJ pizzeria. Repo is private while I'm pre-launch.
+**Eddie** — multi-vertical AI voice agent SaaS (pizzeria, truck parts, real estate, doctor's office). One engine, four verticals, configurable per inbound number. .NET 10 + Azure Communication Services + AI Foundry Voice Live + Postgres/pgvector. First prospect in active conversation, NJ pizzeria. Repo is private while I'm pre-launch.
 
 **NYS Public Demand Simulator** — live tool that joins six fragmented New York State open datasets and lets a county planner estimate Medicaid/SNAP impact from an unemployment shock in 30 seconds. The interesting part is the PDF extraction pipeline for monthly Medicaid reports — the state doesn't publish that one as structured data anywhere.
 
